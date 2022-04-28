@@ -1,4 +1,4 @@
-# Deformation_trizo
+# Deformation images
 1. Double click
 2. Name of you'r image file
 3. How much GNEUGNEU do you want
